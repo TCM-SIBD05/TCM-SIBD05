@@ -20,34 +20,22 @@ A [table](https://www.markdownguide.org/extended-syntax/#tables) may be usefull 
 ## Technologies
 
 _Indicate the technologies you have used in this assignment. Please provide links for the user to read more about those technologies._
-* XML
-* HTML5 + CSS3
-* Javascript
-* PHP
-* nodeJS
+* Docker
+* NodeJS
+* MySQL
 * _Any other?_
 
 ### Frameworks and Libraries
 
 _Did you use any aditional libraries? Describe them here._
-* Docker
-* Multipass
-* NodeJS
-* JQuery
-* Laravel
-* Bootstrap
+* Loopback 4
 
-## Report
-_Please add at least on section (a file) per Chapter. But you can add more._
+## Reports
+_Please add a hyperlink per Report.
 
-### Project presentation
-* Chapter 1: [Project presentation](doc/c1.md)
-### User Interface 
-* Chapter 2: [User Interface Prototype and Sitemap](doc/c2.md)
-### Product
-* Chapter 3: [Product](doc/c3.md)
-### Presentation
-* Chapter 4: [Presentation](doc/c4.md)
+:[REI](doc/rei/rei00.md)
+:[REBD](doc/rebd/rebd00.md)
+
 
 ## Team
 * Cátia Patrícia Vieira Ramos [@catiaramos12](https://github.com/catiaramos12)
