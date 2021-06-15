@@ -18,7 +18,7 @@ executa (FUNCIONARIO, PEDIDO)   1:N   T/P
 faz (FUNCIONARIO, FORMAÇÃO)   N:M   P/P
 
 
-[![Diagrama Modelo EA] (https://github.com/TCM-SIBD05/TCM-SIBD05/blob/main/doc/rei/images/Diagrama.png)
+[![Diagrama Modelo EA](https://github.com/TCM-SIBD05/TCM-SIBD05/blob/main/doc/rei/images/Diagrama.png)
 
 
 ---
