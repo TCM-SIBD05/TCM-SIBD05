@@ -19,19 +19,15 @@ A [table](https://www.markdownguide.org/extended-syntax/#tables) may be usefull 
 
 ## Technologies
 
-_Indicate the technologies you have used in this assignment. Please provide links for the user to read more about those technologies._
-* Docker
 * NodeJS
 * MySQL
-* _Any other?_
+* JSON
 
 ### Frameworks and Libraries
 
-_Did you use any aditional libraries? Describe them here._
 * Loopback 4
 
 ## Reports
-_Please add a hyperlink per Report.
 
 :[REI](doc/rei/rei00.md)
 :[REBD](doc/rebd/rebd00.md)
