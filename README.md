@@ -1,6 +1,6 @@
 # Pingo Salgado
 
-Repository to host the project developed for Sistemas de Informação e Bases de Dados, a first year subject at ISMAI. Developed by Group TCM-SIBD01 : @SofiaGomes36767 (https://github.com/SofiaGomes36767), @catiaramos12 (https://github.com/catiaramos12), @car0linabarr0s (https://github.com/car0linabarr0s), @JoseMario36469 (https://github.com/JoseMario36469)
+Repository to host the project developed for Sistemas de Informação e Bases de Dados, a first year subject at ISMAI. Developed by Group TCM-SIBD01 : [@SofiaGomes36767] (https://github.com/SofiaGomes36767), [@catiaramos12] (https://github.com/catiaramos12), [@car0linabarr0s] (https://github.com/car0linabarr0s), [@JoseMario36469] (https://github.com/JoseMario36469)
 
 ## Short theme description
 
