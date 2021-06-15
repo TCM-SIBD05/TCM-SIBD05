@@ -18,7 +18,7 @@ executa (FUNCIONARIO, PEDIDO)   1:N   T/P
 faz (FUNCIONARIO, FORMAÇÃO)   N:M   P/P
 
 
-(images/Diagrama.png)
+![Diagrama Modelo EA] (images/Diagrama.png)
 
 
 ---
