@@ -34,7 +34,7 @@ Id | Nome | Idade | Sexo | Salário | Entrada | Saída | Secção | Classe | Esc
 253 | Tânia Fonseca | 42 | F | 635 | 13:00:00 | 22:00:00 | Limpeza | Funcionário | Full-time |
 254 | Teresa Moreira | 45 | F | 320 | 10:00:00 | 14:00:00 | Reposição | Funcionário | Part-time |
 255 | Rita Vaz | 19 | F | 635 | 06:00:00 | 15:00:00 | Reposição | Funcionário | Full-time |
-256 | João Silva	24 | M | 635 | 10:00:00 | 19:00:00 | Reposição | Funcionário | Full-time |
+256 | João Silva | 24 | M | 635 | 10:00:00 | 19:00:00 | Reposição | Funcionário | Full-time |
 257 | Fábio Ferreira | 39 | M | 650 | 09:00:00 | 18:00:00 | Reposição | Funcionário | Full-time |
 258 | Joana Lamelas | 25 | F | 320 |17:00:00 | 21:00:00 | Reposição | Funcionário |Part-time |
 
