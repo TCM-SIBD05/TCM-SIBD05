@@ -25,8 +25,9 @@ Faz
 ## Normalização do Esquema Relacional
 
 Funcionários
-Id || Nome | Idade | Sexo | Salário | Entrada | Saída | Secção | Classe | Escala |
-:----: || :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
+
+| Nome | Idade | Sexo | Salário | Entrada | Saída | Secção | Classe | Escala |
+| :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
 250 || Raul Dias | 65 | M | 1500 | 08:30:00 | 21:30:00 | Gerência | Funcionário | Full-time |
 251 || Carlos Ferreira | 36 | M | 1000 | 11:00:00 | 20:00:00 | Gerência | Funcionário | Full-time |
 252 || Ana Sousa | 54 | F | 635 | 07:00:00 | 16:00:00 | Limpeza | Funcionário | Full-time |
@@ -38,6 +39,7 @@ Id || Nome | Idade | Sexo | Salário | Entrada | Saída | Secção | Classe | Es
 258 || Joana Lamelas | 25 | F | 320 |17:00:00 | 21:00:00 | Reposição | Funcionário |Part-time |
 
 Formação
+
 | Id || Nome |
 | :----: || :----: |
 | 50 || Cortador de Carne |
