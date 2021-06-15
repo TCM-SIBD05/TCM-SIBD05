@@ -4,7 +4,7 @@ Repository to host the project developed for Sistemas de Informação e Bases de
 
 ## Short theme description
 
-An example report using markdown on Github. This documentation is writen using [Markdown](https://www.markdownguide.org/). Here is a [link to the basic syntax](https://www.markdownguide.org/basic-syntax), but an [extended syntax](https://www.markdownguide.org/extended-syntax/) is also available. If you're starting with Markdown, you may want to try a [Markdown Tutorial](https://www.markdowntutorial.com/) and read the [getting started](https://www.markdownguide.org/getting-started/) section.
+No ambito da disciplina Sistemas de Informação e Bases de Dados, orientado pelo professor Marco Oliveria, foi-nos proposto a criação de uma base de dados e depois de passarmos por várias opções, decidimos criar o nosso próprio supermercado "Pingo Salgado".
 
 ## Repository organization
 
