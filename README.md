@@ -8,9 +8,7 @@ No ambito da disciplina Sistemas de Informação e Bases de Dados, orientado pel
 
 ## Repository organization
 
-_Please help reader navigate around describing how the repository is organized by providing links_
-* **Source code** is in the [src folder](https://github.com/exemploTrabalho/report/src).
-* Report chapters are in [doc folder](https://github.com/exemploTrabalho/report/doc).
+* Report chapters are in [doc folder](https://github.com/TCM-SIBD05/TCM-SIBD05/tree/main/doc).
 
 ## Gallery
 
